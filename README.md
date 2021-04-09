@@ -23,8 +23,8 @@
 ## 📷 Pages
 
 <h1 align="center">
-    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="500px" />
-    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="500px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="400px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="400px" />
 </h1>
 
 <br>

@@ -2,6 +2,11 @@
     <img alt="TinDEV" title="#delicinha" src=".github/tindev.svg" width="150px" />
 </h1>
 
+<h1 align="center">
+    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="500px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="500px" />
+</h1>
+
 <h4 align="center">
   ☕ Semana OmniStack 08
 </h4>
@@ -32,8 +37,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Tindev consiste no desenvolvimento de um Tinder para desenvolvedores.
-
-<h1 align="center">
-    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="600px" />
-    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="600px" />
-</h1>

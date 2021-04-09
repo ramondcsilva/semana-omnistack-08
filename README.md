@@ -34,6 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Tindev consiste no desenvolvimento de um Tinder para desenvolvedores.
 
 <h1 align="center">
-    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="300px" />
-    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="300px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="600px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="600px" />
 </h1>

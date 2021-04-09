@@ -2,10 +2,7 @@
     <img alt="TinDEV" title="#delicinha" src=".github/tindev.svg" width="150px" />
 </h1>
 
-<h1 align="center">
-    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="500px" />
-    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="500px" />
-</h1>
+
 
 <h4 align="center">
   ☕ Semana OmniStack 08
@@ -24,6 +21,12 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+
+<h1 align="center">
+    <img alt="TinDEV" title="#delicinha" src=".github/HomeTinDEV.png" width="500px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/FeedTinDEV.png" width="500px" />
+</h1>
 
 <br>
 

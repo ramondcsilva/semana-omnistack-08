@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="TinDEV" title="#delicinha" src=".github/tindev.svg" width="80px" />
+    <img alt="TinDEV" title="#delicinha" src=".github/tindev.svg" width="150px" />
 </h1>
 
 <h4 align="center">
